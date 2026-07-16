@@ -26,7 +26,7 @@ Our vision is simple:
 
 > **Build the Wikipedia of exploration for open-world games.**
 
----
+----
 
 ## ✨ Core Features
 
